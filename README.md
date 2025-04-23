@@ -18,9 +18,9 @@ This repository provides an overview of the Mizuno Group’s research activities
     - correspondence  
 
 ## Almuni
-- [Shotaro Maedera](https://github.com/ShotaroMaedera)  
-- [Katsuhisa Morita](https://github.com/KatsuhisaMorita)  
-- [Shumpei Nemoto](https://github.com/Nemoto-S)  
+- [Shotaro Maedera (2022)](https://github.com/ShotaroMaedera)  
+- [Katsuhisa Morita (2023)](https://github.com/KatsuhisaMorita)  
+- [Shumpei Nemoto (2024)](https://github.com/Nemoto-S)  
 
 ## Contact
 ### Principal Investigator
